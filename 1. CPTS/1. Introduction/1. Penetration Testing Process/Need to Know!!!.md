@@ -1,4 +1,4 @@
-[Pasted image 20241110122938]
+![Pasted image 20241110122938](https://github.com/user-attachments/assets/add65575-18e3-42b6-93e0-d858fcb2f99a)
 The **vulnerability assessment** stage is divided into two areas. On the one hand, it is an approach to scan for known vulnerabilities using automated tools. On!
  the other hand, it is analyzing for potential vulnerabilities through the information found.
 
