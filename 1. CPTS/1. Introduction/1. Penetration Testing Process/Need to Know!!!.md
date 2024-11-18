@@ -1,5 +1,6 @@
-![[Pasted image 20241110122938.png]]
-The **vulnerability assessment** stage is divided into two areas. On the one hand, it is an approach to scan for known vulnerabilities using automated tools. On the other hand, it is analyzing for potential vulnerabilities through the information found.
+[Pasted image 20241110122938]
+The **vulnerability assessment** stage is divided into two areas. On the one hand, it is an approach to scan for known vulnerabilities using automated tools. On!
+ the other hand, it is analyzing for potential vulnerabilities through the information found.
 
 **Exploitation** is the attack performed against a system or application based on the potential vulnerability discovered during our information gathering and enumeration. We use the information from the `Information Gathering` stage, analyze it in the `Vulnerability Assessment` stage, and prepare the potential attacks.
 
